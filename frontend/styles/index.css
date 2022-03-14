@@ -1,0 +1,180 @@
+@import "font-awesome.css";
+
+:root {
+  --body-font-family: 'URW Maxima W01', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
+  --body-background: #0f0f32;
+  --body-color: #FF2424;
+  --heading-color: white;
+  --action-color: white;
+  --nav-color: #EDF763;
+}
+
+*, *::before, &::after {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--body-background);
+  color: var(--body-color);
+  font-family: var(--body-font-family);
+  margin: 0 8px;
+  font-size: 108%;
+  line-height: 1.6;
+}
+
+a {
+  color: var(--action-color);
+  text-decoration: underline dashed;
+  text-underline-offset: 4px;
+  text-decoration-color: rgba(255,255,0,0.4);
+}
+
+h1 {
+  margin: 1rem 0 3rem;
+  text-align: center;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.2;
+}
+
+h1, h2, h3, h4, nav {
+  color: var(--heading-color);
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+
+  &.untransform {
+    text-transform: none;
+  }
+}
+
+body > header {
+  margin: 1rem;
+  text-align: center;
+}
+
+body > header img {
+  display: inline-block;
+  width: 400px;
+  max-width: 100%;
+}
+
+body > header nav ul {
+  margin: 2rem 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem 1.5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+body > header nav a {
+  text-decoration: none;
+  color: var(--nav-color);
+}
+
+main {
+  margin: 2rem auto 4rem;
+  max-width: 55rem;
+  min-height: calc(100vh - 200px);
+  padding: 25px 25px 50px;
+
+  @media (max-width: 500px) {
+    padding: 16px 16px 50px;
+  }
+
+  & img {
+    width: 100%;
+  }
+}
+
+footer {
+  text-align: center;
+  margin-bottom: 4rem;
+  font-size: 1em;
+}
+
+hr {
+  border: none;
+  border-top: 2px dotted #8a0000;
+  margin: 3rem 0;
+}
+
+blockquote {
+  margin: 0 0 1rem;
+  padding: 1.13095rem 2.32143rem .53571rem 2.32143rem;
+  border-left: 4px solid #8a0000;
+  font-size: 1.2em;
+
+  &, & p {
+    line-height: 1.6;
+    color: #EDF763;
+  }
+}
+
+.button {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 0 1rem 0;
+  padding: 0.85em 1em;
+  -webkit-appearance: none;
+  border: 1px solid transparent;
+  border-radius: 0;
+  transition: background-color 0.25s ease-out,color 0.25s ease-out;
+  font-size: 0.9rem;
+  line-height: 1;
+  text-align: center;
+  cursor: pointer;
+  background-color: #fff;
+  color: #0f0f32;
+}
+
+.post-title {
+  & span {
+    font-weight: normal;
+    letter-spacing: -0.2em;
+    margin: 0 0.2em;
+    &:first-of-type {
+      margin-left: 0;
+    }
+  }
+
+  & a {
+    text-decoration: none;
+  }
+}
+
+.album-cover {
+  float:left;
+  max-width: 350px;
+  margin: 0 3em 1em 0;
+
+  @media (max-width: 600px) {
+    float: none;
+    margin: 0 auto 1em;
+  }
+
+  & img {
+    border: 6px solid white;
+    box-shadow: 0px 0px 35px color(#FF2424 a(70%));
+  }
+}
+
+body.music {
+  & .cta-button {
+    margin-top: 2em;
+    & .button {
+      margin-bottom: 0;
+    }
+  }
+}
+
+body.bio {
+  & main p > img {
+    border: 8px solid #EDF763;
+    padding: 8px;
+    background: white;
+  }
+}
