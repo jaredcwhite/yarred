@@ -16,6 +16,8 @@ template_engine: serbea
   <div style="clear:both"></div><br/>
 {% end %}
 
+[More Posts This Way…](/tangerine-dream-2022/){:class="button large"}
+
 ----
 
 <h1>Music News</h1>
