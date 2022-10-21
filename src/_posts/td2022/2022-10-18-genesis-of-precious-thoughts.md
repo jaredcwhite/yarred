@@ -37,5 +37,5 @@ Yet I wish…I wish it didn't mark the end of the Quaeschning-Schnauss era. (A p
 
 ----
 
-Coming up next in the series: _Towards The Evening Star_. **Stay tuned.**
+Coming up next in the series: [Towards The Evening Star](/tangerine-dream-2022/10/19/towards-the-evening-star/). **Stay tuned.**
 {:style="text-align:center"}

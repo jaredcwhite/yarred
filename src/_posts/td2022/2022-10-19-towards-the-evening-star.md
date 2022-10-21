@@ -33,5 +33,5 @@ I guess what I'm trying to say is this hits all the right nostalgic buttons for 
 
 ----
 
-Coming up next in the series: _Ricochet, Part 2_. **Stay tuned.**
+Coming up next in the series: [Ricochet, Part 2](/tangerine-dream-2022/10/20/ricochet-part-2/). **Stay tuned.**
 {:style="text-align:center"}
