@@ -27,5 +27,5 @@ I think a lot of the Berlin School vibe we know and love from later eras can be 
 
 ----
 
-Coming up next in the series: _Marakesh_. **Stay tuned.**
+Coming up next in the series: [Marakesh](/tangerine-dream-2022/10/22/marakesh-the-midnight-trail/).
 {:style="text-align:center"}
