@@ -36,5 +36,5 @@ I wish Tangerine Dream's followup albums in 1989 & 1990 had maintained this leve
 
 ----
 
-Coming up next in the series: _Shape My Sin_. **Stay tuned.**
+Coming up next in the series: [Shape My Sin](/tangerine-dream-2022/10/23/shape-my-sin/).
 {:style="text-align:center"}
