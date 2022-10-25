@@ -41,5 +41,5 @@ Not everything on the album rises to this level of quality in terms of productio
 
 ----
 
-Coming up next in the series: _Horizon_. **Stay tuned.**
+Coming up next in the series: [Tangent & Horizon](/tangerine-dream-2022/10/25/tangent-horizon/). **Stay tuned.**
 {:style="text-align:center"}
