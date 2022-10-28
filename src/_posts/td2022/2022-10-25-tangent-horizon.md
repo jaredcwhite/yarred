@@ -43,5 +43,5 @@ Notable remixes/re-recordings: Jerome Froese's [Scope of Mind](https://jeromefro
 
 ----
 
-Coming up next in the series: _Stratosfear_. **Stay tuned.**
+Coming up next in the series: [Stratosfear](/tangerine-dream-2022/10/28/stratosfear/).
 {:style="text-align:center"}
