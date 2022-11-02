@@ -31,8 +31,5 @@ Notable remix/re-recording: Jerome Froese's [Stratosfear 1995](https://www.youtu
 
 ----
 
-Coming up next in the series: _Comet's Figure Head_. **Stay tuned.**
+Coming up next in the series: [Comet's Figure Head & Outland](/tangerine-dream-2022/11/02/comets-figure-head-outland/).
 {:style="text-align:center"}
-
-
-
