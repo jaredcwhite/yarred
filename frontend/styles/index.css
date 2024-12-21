@@ -29,6 +29,10 @@ a {
   text-decoration-color: rgba(255,255,0,0.4);
 }
 
+strong {
+  color: color-mix(in oklch, var(--body-color), beige 60%);
+}
+
 h1 {
   margin: 1rem 0 3rem;
   text-align: center;
