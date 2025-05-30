@@ -9,7 +9,7 @@ Just kidding—this is the first time I've done this. 😂 (I had two goals this
 
 Before I unveil my album of the year, let me note a few previous years. I think my routine will be to choose an album that's squarely in the genre I adore (retro-flavored electronica: chillwave, Berlin School, etc.), alongside a more mainstream runner-up.
 
-In **2022**: my Album of the Year was [Riveria](https://lavenue.bandcamp.com/album/riviera) by L'Avenue (I was absolutely _obsessed_ with this album—particularly the track _Warm Breeze_), and the pop runner-up was [Dawn FM](https://en.wikipedia.org/wiki/Dawn_FM) by The Weeknd (I've listened to this one so-o-o many times—incredible stuff).
+In **2022**: my Album of the Year was [Riviera](https://lavenue.bandcamp.com/album/riviera) by L'Avenue (I was absolutely _obsessed_ with this album—particularly the track _Warm Breeze_), and the pop runner-up was [Dawn FM](https://en.wikipedia.org/wiki/Dawn_FM) by The Weeknd (I've listened to this one so-o-o many times—incredible stuff).
 
 And in **2023**: my Album of the Year was [Hydragate](https://music.apple.com/us/album/hydragate/1689765000) by S.A.W. (how could it not be when it features the illustrious Johannes Schmoelling, formerly of Tangerine Dream), and the pop runner-up was [Bebe](https://en.wikipedia.org/wiki/Bebe_(album)).
 
